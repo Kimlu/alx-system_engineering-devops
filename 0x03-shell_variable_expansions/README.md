@@ -7,8 +7,8 @@
 6-createlocalvariable - creates a new local variable
 7-createglobalvariable -  creates a new global variable
 8-trueknowledge -  prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
-9-divideandrule - hat prints the result of POWER divided by DIVIDE, followed by a new line
-10-loveexponentbreath - isplays the result of BREATH to the power LOVE
+9-divideandrule -  prints the result of POWER divided by DIVIDE, followed by a new line
+10-loveexponentbreath - displays the result of BREATH to the power LOVE
 11-binarytodecimal - converts a number from base 2 to base 10
 12-combinations -  prints all possible combinations of two letters, except oo
 13-printfloat - prints a number with two decimal places, followed by a new line
